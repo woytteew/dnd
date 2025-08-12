@@ -1,0 +1,7 @@
+{
+  "userIgnoreFilters": [
+    "Locations/_attachments/"
+  ],
+  "attachmentFolderPath": "zzz_attachments",
+  "alwaysUpdateLinks": true
+}

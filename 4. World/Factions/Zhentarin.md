@@ -1,0 +1,2 @@
+- Shadowy organization
+- Seeks to exert secret control over the North through money and influence

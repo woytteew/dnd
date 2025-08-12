@@ -1,0 +1,5 @@
+- Hlavní cesta kopírující pobřeží
+- Spojuje [[Neverwinter]] s pobřežními městy Luskan na severu a Waterdeep na jihu
+- Léta byla část cesty jižně od [[Neverwinter]] neudržována, kvůli častým útokům monster
+- V poslední době byly podniknuty kroky k zajištění bezpečnosti cesty.
+	- Mezi Newerwinter a [[Leilon]] projíždějí lehké hlídky na koních.

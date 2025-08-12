@@ -1,0 +1,186 @@
+{
+  "mapMarkers": [
+    {
+      "id": "sword-coast-map",
+      "lastAccessed": 1753616970103,
+      "markers": [
+        {
+          "id": "ID_288a0adbca79",
+          "type": "default",
+          "loc": [
+            -4.3828125,
+            2.3359375
+          ],
+          "link": "Phandalin",
+          "layer": "%5B%5Bmap-sc.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5681710213776722,
+            0.7650869416979202
+          ],
+          "description": "Phandalin",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a78c86b3bfa",
+          "type": "default",
+          "loc": [
+            -4.5220947265625,
+            2.4453125
+          ],
+          "link": "Umbrage Hill",
+          "layer": "%5B%5Bmap-sc.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "2. Adventure/Adventure map.md"
+      ]
+    },
+    {
+      "id": "phandalin-dm",
+      "locked": true,
+      "lastAccessed": 1753616972195,
+      "markers": [
+        {
+          "id": "ID_5bfa391abbca",
+          "type": "default",
+          "loc": [
+            -1.436279296875,
+            2.3359375
+          ],
+          "link": "Stonehill inn",
+          "layer": "%5B%5BPhandalin-DM.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69fadb888919",
+          "type": "default",
+          "loc": [
+            -0.9442699581525652,
+            2.6406624557173335
+          ],
+          "link": "Barthen's Provisions",
+          "layer": "%5B%5BPhandalin-DM.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_386bd9cbe97a",
+          "type": "default",
+          "loc": [
+            -1.8397216796875,
+            1.703125
+          ],
+          "link": "Lionshield Coster",
+          "layer": "%5B%5BPhandalin-DM.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4. World/Locations/Phandalin/Phandalin.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Phandalin-DM.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Phandalin-DM.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "phandalin-dm",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

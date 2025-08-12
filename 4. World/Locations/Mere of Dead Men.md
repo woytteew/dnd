@@ -1,0 +1,4 @@
+- Cold, desolate swamp
+- Full of [[Will-o'-Wisp]]
+- Countless adventurers have perished here
+	- Drawn by the tales of ruined castles half-sunk in the mire

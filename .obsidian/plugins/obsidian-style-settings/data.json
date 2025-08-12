@@ -1,0 +1,12 @@
+{
+  "ITS@@select": "wotc-beyond",
+  "entry-point@@color-scheme-selector": "color-scheme-default",
+  "entry-point@@floating-sides": false,
+  "entry-point@@smooth-mode": false,
+  "entry-point@@minimal-mode": false,
+  "entry-point@@minimal-sidebar": "sidebar-hide",
+  "entry-point@@separate-color-scheme": false,
+  "entry-point@@minimal-workspace-nav-header": "nav-header-hover",
+  "entry-point@@minimal-workspace-sides-tabs": "sides-tabs-show",
+  "entry-point@@minimal-workspace-root-tabs": "root-tabs-show"
+}

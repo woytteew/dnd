@@ -1,0 +1,5 @@
+- Center of the town
+- Modest two story house
+- 6 rooms for rent on the upper floor
+- Bed 5sp, meal 1sp
+- Innkeeper: [[Toblen Stonehill]]

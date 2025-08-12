@@ -1,0 +1,2 @@
+- Skalnaté, větrné kopce
+- Jsou posety starými doly, které se staly útočištěm pro nestvůry

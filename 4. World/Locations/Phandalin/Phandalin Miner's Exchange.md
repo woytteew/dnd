@@ -1,0 +1,3 @@
+- Miners come here to have their valuables weighted and paid out
+- Registering claims to various streams and excavations around the area
+- Guildmaster: [[Halia Thornton]]

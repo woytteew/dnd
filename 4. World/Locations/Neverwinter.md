@@ -1,0 +1,6 @@
+- "City of skilled hands"
+- City was badly damaged when Mount Hotenow erupted 50 years ago
+- Works to rebuild under the supervision of [[Dagult Neverember]]
+- At present, no legitimate heirs to the old Alogondar royal line are known to exist
+	- Many believe that the line is ended
+- 

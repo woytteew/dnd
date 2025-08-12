@@ -1,0 +1,2 @@
+- Rules [[Neverwinter]]
+- Quitly pays off or disposes of anyone claiming a connection to Alogondar royal line ([[Neverwinter]] heirs)

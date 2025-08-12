@@ -1,0 +1,3 @@
+- Shrine made of stones taken from nearby ruins
+- Dedicated to: [[Berronar Truesilver]]
+- In care of: [[Sister Garaele]]

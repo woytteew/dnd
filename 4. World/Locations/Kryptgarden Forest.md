@@ -1,0 +1,2 @@
+- Ancient forest, tucked behind [[Sword Mountains]]
+- Contains ruin of bygone dwarven civilizations

@@ -1,0 +1,3 @@
+- Forest, east of [[Neverwinter]]
+- Seems to have magical quality or at least an air of mysical secrecy
+- Reclusive spellcaster are rumored to dwell deep within

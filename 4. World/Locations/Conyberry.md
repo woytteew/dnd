@@ -1,0 +1,3 @@
+- Opuštěné město, skrz které vede stezka Triboar.
+- Bylo vypleněné barbary před lety a nyní je zruinované.
+- Prašná cesta směrující jižně, prý vede ke svatyni [[Savras]]e

@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "c5e429bcd23f07b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e77667e9c8048de7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c270b300841a34f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World/Locations/Phandalin/Shrine of Luck.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shrine of Luck"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0c7bd9e89fa9f31",
+    "type": "split",
+    "children": [
+      {
+        "id": "99a165122cd0f1ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfdc02c4d96c3f23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e32707a34d4d8de6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "839ef2b0c2d2f78b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f47c880b24b14ef1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ba1ad5eb3e0d167",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b742331523defc3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ff0cc0c3c1f14d45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Adventure/Adventure map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Adventure map"
+            }
+          },
+          {
+            "id": "6c1fede983931b0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0b295de5708e59e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Adventure/Dragon's Location.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dragon's Location"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9c270b300841a34f",
+  "lastOpenFiles": [
+    "4. World/Locations/Phandalin/Phandalin Miner's Exchange.md",
+    "6. Rules/Homebrew",
+    "4. World/Locations/Phandalin/Lionshield Coster.md",
+    "4. World/Locations/Phandalin/Barthen's Provisions.md",
+    "4. World/Locations/Phandalin/Townmaster's Hall.md",
+    "4. World/Gods/Berronar Truesilver.md",
+    "1. PCs/Garmiir_Mehigirr.pdf",
+    "3. Sessions/Session 1/01-prep.md",
+    "3. Sessions/Session 1/01-notes.md",
+    "3. Sessions/Session 0/00-prep.md",
+    "1. PCs/Pepa.pdf",
+    "1. PCs/Michal.md",
+    "1. PCs/Pepa.md",
+    "1. PCs/Simon.md",
+    "4. World/Locations/Phandalin/Shrine of Luck.md",
+    "1. PCs/Simon.pdf",
+    "1. PCs/Unconfirmed 192590.crdownload",
+    "1. PCs/Simon-lore.md",
+    "1. PCs/michal.pdf",
+    "2. Adventure/Dwarven Excavation Quest.md",
+    "1. PCs/Unconfirmed 870573.crdownload",
+    "2. Adventure/Gnomegarde Quest.md",
+    "6. Rules/Items/Potion of Healing.md",
+    "4. World/Locations/Neverwinter wood.md",
+    "3. Sessions/Session 0",
+    "2. Adventure/Umbrage Hill Quest.md",
+    "2. Adventure/Phandalin tales.md",
+    "2. Adventure/Dragon's Location.md",
+    "2. Adventure/Adventure map.md",
+    "4. World/Locations/Phandalin/Phandalin.md",
+    "4. World/Locations/Umbrage Hill.md",
+    "4. World/NPCs/Adabra Gwynn.md",
+    "6. Rules/Items/Dagger +1.md",
+    "zzz_attachments/heal-potion.png",
+    "zzz_attachments/Pasted image 20250727134404.png",
+    "zzz_attachments/Pasted image 20250727134119.png",
+    "zzz_attachments/Umbrage-hill.png",
+    "zzz_attachments/Dragons-location.png",
+    "4. World/Factions",
+    "zzz_attachments/phandalin-tales.png",
+    "4. World",
+    "zzz_attachments/Phandalin-DM.png",
+    "zzz_attachments/orc.png",
+    "zzz_attachments/young-white-dragon.png",
+    "zzz_attachments/Gorthok-the-thunder-boar.png"
+  ]
+}

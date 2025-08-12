@@ -1,0 +1,4 @@
+- Network of adventurers and spies
+- Advocates equality and covertly oppose abuse of power
+- They gather information throughout the lands to thwart tyrants
+- They aid the weak, poor and oppressed

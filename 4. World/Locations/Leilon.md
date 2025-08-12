@@ -1,0 +1,4 @@
+- Small town being rebuilt
+- Was abandoned for years
+- Inhabitants are from [[Neverwinter]]
+	- They were tasked to make it into a fortified settlement that can ward off threats from [[Mere of Dead Men]]

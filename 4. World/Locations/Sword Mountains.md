@@ -1,0 +1,4 @@
+- Steep, "skalnate", snow-capped mountains
+- Home to scattered tribes of orcs as well as monsters
+- Icespire Peak is the talles among them
+- Strewn with the ruions of bygone kingdoms, and more than a few half-forgotten dungeons and tombs

@@ -1,0 +1,5 @@
+- Porodni baba, human
+- Acolyte of [[Chauntea]]
+- Doesnt want to leave [[Umbrage Hill]]
+	- Give players a chance to persuade [[Harpers]]
+- Sells potions

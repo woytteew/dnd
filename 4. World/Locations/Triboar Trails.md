@@ -1,0 +1,2 @@
+- The safest path between [[Neverwinter]] and the town of Triboar
+- Not patrolled, monsters attack are common

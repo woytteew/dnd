@@ -1,0 +1,5 @@
+- Zealous dwarf/elf acolyte
+- Out of town [[Phandalin]]
+	- On a mission in [[Neverwinter]]
+- Member of [[Harpers]]
+- Reguarly reports supervisors on events around [[Phandalin]]

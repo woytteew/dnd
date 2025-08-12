@@ -1,0 +1,3 @@
+- Lean, balding human of 50 years
+- Owns: [[Barthen's Provisions]]
+- Employs: [[Ander]], [[Thistle]]

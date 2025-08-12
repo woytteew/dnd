@@ -1,0 +1,3 @@
+- Talos worshippers
+- Dwell in dark depths of [[Neverwinter wood]]
+- In stormy weather they gather on remote hilltops to summon [[Gorthok the thunder boar]]

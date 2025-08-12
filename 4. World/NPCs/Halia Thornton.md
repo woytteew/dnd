@@ -1,0 +1,4 @@
+- Calucating woman
+- Agent of [[Zhentarin]]
+- Working to bring [[Phandalin]] under her control
+- Valuable patron to those who don't cross her

@@ -1,0 +1,2 @@
+- +1 to attack and damage rolls
+- Price: 100gp
