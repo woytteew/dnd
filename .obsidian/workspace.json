@@ -13,124 +13,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Adventure/Adventure map.md",
+                "file": "4. World/NPCs/Norbus Ironrune.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adventure map"
+              "title": "Norbus Ironrune"
             }
           },
           {
-            "id": "b3ea39f7bed8b611",
+            "id": "99bd61108dd1f93c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Sessions/Session 1/01-notes.md",
+                "file": "2. Adventure/Dwarven Excavation Quest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-notes"
+              "title": "Dwarven Excavation Quest"
             }
           },
           {
-            "id": "ab9d1960c256da7c",
+            "id": "0017046ce37e6d49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Sessions/Session 1/01-prep.md",
+                "file": "2. Adventure/Side quests/Clear ancient runes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-prep"
+              "title": "Clear ancient runes"
             }
           },
           {
-            "id": "8378b6d072f89dc1",
+            "id": "6806ca81422b828e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World/Locations/Phandalin/Phandalin.md",
+                "file": "4. World/Locations/Dwarven ancient ruins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phandalin"
+              "title": "Dwarven ancient ruins"
             }
           },
           {
-            "id": "40f61fa76495ba1b",
+            "id": "6755ae4a38fb7aa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World/Locations/Phandalin/Townmaster's Hall.md",
+                "file": "6. Rules/Monsters/Ochre Jelly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Townmaster's Hall"
-            }
-          },
-          {
-            "id": "1423a1270db1f2c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Adventure/Umbrage Hill Quest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Umbrage Hill Quest"
-            }
-          },
-          {
-            "id": "cdeb9f12c5772db0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World/NPCs/Adabra Gwynn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Adabra Gwynn"
-            }
-          },
-          {
-            "id": "4f6a309dc4408cd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World/Locations/Umbrage Hill.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Umbrage Hill"
-            }
-          },
-          {
-            "id": "eed10a9697731261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Rules/Monsters/Manticore.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Manticore"
+              "title": "Ochre Jelly"
             }
           }
         ],
@@ -283,15 +227,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3ea39f7bed8b611",
+  "active": "99bd61108dd1f93c",
   "lastOpenFiles": [
+    "3. Sessions/Session 2/02-notes.md",
+    "2. Adventure/Side quests/Clear ancient runes.md",
+    "6. Rules/Monsters/Ochre Jelly.md",
+    "4. World/Locations/Dwarven ancient ruins.md",
+    "3. Sessions/Session 2/02-prep.md",
+    "4. World/NPCs/Dazlyn Grayshard.md",
+    "3. Sessions/Session 2",
+    "3. Sessions/Untitled.md",
+    "2. Adventure/Dwarven Excavation Quest.md",
+    "4. World/NPCs/Norbus Ironrune.md",
+    "6. Rules/Monsters/Orc.md",
+    "zzz_attachments/ochre-jelly.png",
+    "zzz_attachments/Sending-stones.png",
+    "zzz_attachments/dwarven-excavation.png",
+    "6. Rules/Items/Sending stones.md",
+    "4. World/Gods/Berronar Truesilver.md",
+    "2. Adventure/Side quests",
+    "4. World/Gods/Abbator.md",
+    "4. World/Locations/Phandalin/Phandalin.md",
     "2. Adventure/Adventure map.md",
+    "3. Sessions/Session 1/01-notes.md",
     "4. World/Locations/Umbrage Hill.md",
     "4. World/NPCs/Adabra Gwynn.md",
     "6. Rules/Monsters/Manticore.md",
-    "3. Sessions/Session 1/01-notes.md",
     "3. Sessions/Session 1/01-prep.md",
-    "4. World/Locations/Phandalin/Phandalin.md",
     "4. World/Locations/Phandalin/Townmaster's Hall.md",
     "2. Adventure/Umbrage Hill Quest.md",
     "1. PCs/Elion.pdf",
@@ -299,24 +261,11 @@
     "4. World/NPCs/Sister Garaele.md",
     "4. World/Locations/Phandalin/Shrine of Luck.md",
     "4. World/NPCs/Harbin Wester.md",
-    "4. World/Locations/Phandalin/Stonehill inn.md",
-    "4. World/NPCs/Toblen Stonehill.md",
     "1. PCs/Solrig.pdf",
     "1. PCs/Garmiir_Mehigirr.pdf",
     "1. PCs/Simon.pdf",
-    "4. World/Gods/Berronar Truesilver.md",
-    "Notes/Character creation.md",
-    "2. Adventure/Dwarven Excavation Quest.md",
-    "4. World/Locations/Phandalin/Phandalin Miner's Exchange.md",
     "6. Rules/Homebrew",
-    "4. World/Locations/Phandalin/Lionshield Coster.md",
-    "4. World/Locations/Phandalin/Barthen's Provisions.md",
-    "3. Sessions/Session 0/00-prep.md",
-    "1. PCs/Michal.md",
-    "1. PCs/Pepa.md",
-    "1. PCs/Simon.md",
     "1. PCs/Unconfirmed 192590.crdownload",
-    "1. PCs/Simon-lore.md",
     "1. PCs/Unconfirmed 870573.crdownload",
     "3. Sessions/Session 0",
     "zzz_attachments/heal-potion.png",
@@ -324,12 +273,7 @@
     "zzz_attachments/Pasted image 20250727134119.png",
     "zzz_attachments/Umbrage-hill.png",
     "zzz_attachments/Dragons-location.png",
-    "4. World/Factions",
     "zzz_attachments/phandalin-tales.png",
-    "4. World",
-    "zzz_attachments/Phandalin-DM.png",
-    "zzz_attachments/orc.png",
-    "zzz_attachments/young-white-dragon.png",
-    "zzz_attachments/Gorthok-the-thunder-boar.png"
+    "zzz_attachments/Phandalin-DM.png"
   ]
 }
