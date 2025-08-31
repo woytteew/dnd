@@ -13,15 +13,128 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World/Locations/Phandalin/Shrine of Luck.md",
+                "file": "2. Adventure/Adventure map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shrine of Luck"
+              "title": "Adventure map"
+            }
+          },
+          {
+            "id": "b3ea39f7bed8b611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Sessions/Session 1/01-notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-notes"
+            }
+          },
+          {
+            "id": "ab9d1960c256da7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Sessions/Session 1/01-prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-prep"
+            }
+          },
+          {
+            "id": "8378b6d072f89dc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World/Locations/Phandalin/Phandalin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phandalin"
+            }
+          },
+          {
+            "id": "40f61fa76495ba1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World/Locations/Phandalin/Townmaster's Hall.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Townmaster's Hall"
+            }
+          },
+          {
+            "id": "1423a1270db1f2c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Adventure/Umbrage Hill Quest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Umbrage Hill Quest"
+            }
+          },
+          {
+            "id": "cdeb9f12c5772db0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World/NPCs/Adabra Gwynn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adabra Gwynn"
+            }
+          },
+          {
+            "id": "4f6a309dc4408cd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World/Locations/Umbrage Hill.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Umbrage Hill"
+            }
+          },
+          {
+            "id": "eed10a9697731261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Rules/Monsters/Manticore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Manticore"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,8 +272,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "bases:Create new base": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,41 +283,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c270b300841a34f",
+  "active": "b3ea39f7bed8b611",
   "lastOpenFiles": [
+    "2. Adventure/Adventure map.md",
+    "4. World/Locations/Umbrage Hill.md",
+    "4. World/NPCs/Adabra Gwynn.md",
+    "6. Rules/Monsters/Manticore.md",
+    "3. Sessions/Session 1/01-notes.md",
+    "3. Sessions/Session 1/01-prep.md",
+    "4. World/Locations/Phandalin/Phandalin.md",
+    "4. World/Locations/Phandalin/Townmaster's Hall.md",
+    "2. Adventure/Umbrage Hill Quest.md",
+    "1. PCs/Elion.pdf",
+    "2. Adventure/Dragon's Location.md",
+    "4. World/NPCs/Sister Garaele.md",
+    "4. World/Locations/Phandalin/Shrine of Luck.md",
+    "4. World/NPCs/Harbin Wester.md",
+    "4. World/Locations/Phandalin/Stonehill inn.md",
+    "4. World/NPCs/Toblen Stonehill.md",
+    "1. PCs/Solrig.pdf",
+    "1. PCs/Garmiir_Mehigirr.pdf",
+    "1. PCs/Simon.pdf",
+    "4. World/Gods/Berronar Truesilver.md",
+    "Notes/Character creation.md",
+    "2. Adventure/Dwarven Excavation Quest.md",
     "4. World/Locations/Phandalin/Phandalin Miner's Exchange.md",
     "6. Rules/Homebrew",
     "4. World/Locations/Phandalin/Lionshield Coster.md",
     "4. World/Locations/Phandalin/Barthen's Provisions.md",
-    "4. World/Locations/Phandalin/Townmaster's Hall.md",
-    "4. World/Gods/Berronar Truesilver.md",
-    "1. PCs/Garmiir_Mehigirr.pdf",
-    "3. Sessions/Session 1/01-prep.md",
-    "3. Sessions/Session 1/01-notes.md",
     "3. Sessions/Session 0/00-prep.md",
-    "1. PCs/Pepa.pdf",
     "1. PCs/Michal.md",
     "1. PCs/Pepa.md",
     "1. PCs/Simon.md",
-    "4. World/Locations/Phandalin/Shrine of Luck.md",
-    "1. PCs/Simon.pdf",
     "1. PCs/Unconfirmed 192590.crdownload",
     "1. PCs/Simon-lore.md",
-    "1. PCs/michal.pdf",
-    "2. Adventure/Dwarven Excavation Quest.md",
     "1. PCs/Unconfirmed 870573.crdownload",
-    "2. Adventure/Gnomegarde Quest.md",
-    "6. Rules/Items/Potion of Healing.md",
-    "4. World/Locations/Neverwinter wood.md",
     "3. Sessions/Session 0",
-    "2. Adventure/Umbrage Hill Quest.md",
-    "2. Adventure/Phandalin tales.md",
-    "2. Adventure/Dragon's Location.md",
-    "2. Adventure/Adventure map.md",
-    "4. World/Locations/Phandalin/Phandalin.md",
-    "4. World/Locations/Umbrage Hill.md",
-    "4. World/NPCs/Adabra Gwynn.md",
-    "6. Rules/Items/Dagger +1.md",
     "zzz_attachments/heal-potion.png",
     "zzz_attachments/Pasted image 20250727134404.png",
     "zzz_attachments/Pasted image 20250727134119.png",

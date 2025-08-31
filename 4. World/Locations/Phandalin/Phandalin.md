@@ -11,7 +11,7 @@
 	- Especially that with money or interesting news
 
 ### History
-- Thriving human town hundreads of years ago
+- Thriving human town hundreds of years ago
 	- They were firmly allied with neighboring dwarves and gnome
 - Was raided by orcs years ago and destroyed
 

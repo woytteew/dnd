@@ -1,5 +1,5 @@
-# Starting the campaing
-- show the poster map of Phandalin to the players and read the following boxed text aloud
+# Starting the campaign
+- show the poster map of [[Phandalin]] to the players and read the following boxed text aloud
 ```
 V skalnatém podhůří zasněžených Sword Mountains leží hornické městečko Phandalin, které tvoří čtyřicet až padesát jednoduchých srubů. Kolem novějších domů a obchodů se rozkládají rozpadající se kamenné ruiny, jež ukazují, že toto místo muselo být před staletími mnohem větším městem.
 

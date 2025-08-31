@@ -1,57 +1,9 @@
 {
   "mapMarkers": [
     {
-      "id": "sword-coast-map",
-      "lastAccessed": 1753616970103,
-      "markers": [
-        {
-          "id": "ID_288a0adbca79",
-          "type": "default",
-          "loc": [
-            -4.3828125,
-            2.3359375
-          ],
-          "link": "Phandalin",
-          "layer": "%5B%5Bmap-sc.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5681710213776722,
-            0.7650869416979202
-          ],
-          "description": "Phandalin",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_0a78c86b3bfa",
-          "type": "default",
-          "loc": [
-            -4.5220947265625,
-            2.4453125
-          ],
-          "link": "Umbrage Hill",
-          "layer": "%5B%5Bmap-sc.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "2. Adventure/Adventure map.md"
-      ]
-    },
-    {
       "id": "phandalin-dm",
       "locked": true,
-      "lastAccessed": 1753616972195,
+      "lastAccessed": 1755025023147,
       "markers": [
         {
           "id": "ID_5bfa391abbca",
@@ -109,6 +61,71 @@
       "shapes": [],
       "files": [
         "4. World/Locations/Phandalin/Phandalin.md"
+      ]
+    },
+    {
+      "id": "sword-coast-map",
+      "lastAccessed": 1755028967801,
+      "markers": [
+        {
+          "id": "ID_288a0adbca79",
+          "type": "default",
+          "loc": [
+            -4.3828125,
+            2.3359375
+          ],
+          "link": "Phandalin",
+          "layer": "%5B%5Bmap-sc.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5681710213776722,
+            0.7650869416979202
+          ],
+          "description": "Phandalin",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a78c86b3bfa",
+          "type": "default",
+          "loc": [
+            -4.5220947265625,
+            2.4453125
+          ],
+          "link": "Umbrage Hill",
+          "layer": "%5B%5Bmap-sc.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3aa90a8b3bab",
+          "type": "default",
+          "loc": [
+            -4.8968034654761095,
+            2.217526058401358
+          ],
+          "link": "Dwarven Excavation Quest",
+          "layer": "%5B%5Bmap-sc.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "2. Adventure/Adventure map.md"
       ]
     }
   ],
