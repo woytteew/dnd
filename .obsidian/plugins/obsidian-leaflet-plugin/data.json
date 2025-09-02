@@ -1,71 +1,8 @@
 {
   "mapMarkers": [
     {
-      "id": "phandalin-dm",
-      "locked": true,
-      "lastAccessed": 1755025023147,
-      "markers": [
-        {
-          "id": "ID_5bfa391abbca",
-          "type": "default",
-          "loc": [
-            -1.436279296875,
-            2.3359375
-          ],
-          "link": "Stonehill inn",
-          "layer": "%5B%5BPhandalin-DM.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_69fadb888919",
-          "type": "default",
-          "loc": [
-            -0.9442699581525652,
-            2.6406624557173335
-          ],
-          "link": "Barthen's Provisions",
-          "layer": "%5B%5BPhandalin-DM.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_386bd9cbe97a",
-          "type": "default",
-          "loc": [
-            -1.8397216796875,
-            1.703125
-          ],
-          "link": "Lionshield Coster",
-          "layer": "%5B%5BPhandalin-DM.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "4. World/Locations/Phandalin/Phandalin.md"
-      ]
-    },
-    {
       "id": "sword-coast-map",
-      "lastAccessed": 1755028967801,
+      "lastAccessed": 1756662084757,
       "markers": [
         {
           "id": "ID_288a0adbca79",
@@ -126,6 +63,69 @@
       "shapes": [],
       "files": [
         "2. Adventure/Adventure map.md"
+      ]
+    },
+    {
+      "id": "phandalin-dm",
+      "locked": true,
+      "lastAccessed": 1756662553593,
+      "markers": [
+        {
+          "id": "ID_5bfa391abbca",
+          "type": "default",
+          "loc": [
+            -1.436279296875,
+            2.3359375
+          ],
+          "link": "Stonehill inn",
+          "layer": "%5B%5BPhandalin-DM.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69fadb888919",
+          "type": "default",
+          "loc": [
+            -0.9442699581525652,
+            2.6406624557173335
+          ],
+          "link": "Barthen's Provisions",
+          "layer": "%5B%5BPhandalin-DM.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_386bd9cbe97a",
+          "type": "default",
+          "loc": [
+            -1.8397216796875,
+            1.703125
+          ],
+          "link": "Lionshield Coster",
+          "layer": "%5B%5BPhandalin-DM.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4. World/Locations/Phandalin/Phandalin.md"
       ]
     }
   ],

@@ -28,7 +28,7 @@
 
 ### E5 - Temple
 - 5 secret doors
-	- one is inside a pillar
+	- one is inside an altar
 - Na konci místnosti stojí krvavý oltář z vápence.
 - 2 **Split** [[Ochre Jelly]] cling to the ceiling
 - **Treasure**: 
